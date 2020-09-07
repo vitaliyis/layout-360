@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-color: #2E2F38;
+
 }
 
 .container {
@@ -9,7 +10,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 2.3rem;
+    padding: 0 2.3rem;
 }
 
 .logo-title {
